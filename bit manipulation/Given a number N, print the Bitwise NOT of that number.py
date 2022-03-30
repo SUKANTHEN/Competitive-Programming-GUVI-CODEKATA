@@ -5,3 +5,9 @@
 # 5
 # OUTPUT
 # -6
+"""
+SOLUTION:
+"""
+n = int(input())
+# NOT Operator in python is ~
+print(~n)
